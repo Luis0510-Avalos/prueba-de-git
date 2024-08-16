@@ -1,2 +1,2 @@
 // Hola mundo
-console.log("Hello git");
+// Ahora va a ser un texto
